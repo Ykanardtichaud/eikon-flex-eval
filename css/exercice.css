@@ -14,7 +14,16 @@ align-items: center;
   justify-content: center;
 }
 /* 3. exercice-3 */
+.exercice-3 .container{
+  flex-flow: column;
+  justify-content: space-around;
+  align-items: center;
+}
 
+.exercice-3 .element-blue{
+  order: -1;
+  align-self: self-start;
+}
 /* 4. exercice-4 */
 
 /* 5. exercice-5 */
