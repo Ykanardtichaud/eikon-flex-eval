@@ -76,6 +76,16 @@ align-items: center;
   flex-grow: 1;
 }
 /* 9. exercice-9 */
+.exercice-9 .container{
+  flex-flow: row wrap;
+  align-items: baseline;
+}
+
+.exercice-9 .element{
+  box-sizing: border-box;
+  width: 50%;
+}
+
 
 /* 10. exercice-10 */
 
