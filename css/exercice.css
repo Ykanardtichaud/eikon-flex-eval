@@ -39,7 +39,11 @@ align-items: center;
  align-self: self-start;
 }
 /* 5. exercice-5 */
-
+.exercice-5 .container{
+  flex-flow: row wrap ;
+  justify-content:center;
+  
+}
 /* 6. exercice-6 */
 
 /* 7. exercice-7 */
