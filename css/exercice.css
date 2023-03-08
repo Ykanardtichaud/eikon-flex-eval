@@ -55,7 +55,11 @@ align-items: center;
   flex-grow: 1;
 }
 /* 7. exercice-7 */
-.exercice-7 .container{}
+.exercice-7 .container{
+  flex-flow: column-reverse wrap-reverse;
+  align-content: center;
+  justify-content: space-between;
+}
 /* 8. exercice-8 */
 
 /* 9. exercice-9 */
